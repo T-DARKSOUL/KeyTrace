@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pcap
+*.pcapng
+*.log
+*_decrypted.txt
+keytrace_sslkeylogfile.txt
+.keytrace_config.json
+.keytrace_error.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
